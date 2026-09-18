@@ -24,9 +24,9 @@
   },
   {
     "remote": "github-non-los",
-    "repository": "EvoX-Spartan/android_kernel_realme_sm8250",
+    "repository": "SM8250-Common/android_kernel_realme_sm8250",
     "target_path": "kernel/realme/sm8250",
-    "branch": "bka"
+    "branch": "lineage-24.0"
   },
   {
     "remote": "gitlab",
