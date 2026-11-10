@@ -1,0 +1,44 @@
+[
+  {
+    "remote": "github-non-los",
+    "repository": "provasish/android_device_realme_sm8250-common-1",
+    "target_path": "device/realme/sm8250-common",
+    "branch": "lineage-24.0"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "provasishh/proprietary_vendor_realme_spartan",
+    "target_path": "vendor/realme/spartan",
+    "branch": "lineage-23.2"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "provasishh/proprietary_vendor_realme_sm8250-common",
+    "target_path": "vendor/realme/sm8250-common",
+    "branch": "lineage-24.0"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "provasish/android_hardware_oplus-1",
+    "target_path": "hardware/oplus",
+    "branch": "lineage-24.0"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "provasish/android_kernel_realme_sm8250-a17",
+    "target_path": "kernel/realme/sm8250",
+    "branch": "lineage-24.0"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "bijoyv9/proprietary_vendor_oplus_camera",
+    "target_path": "vendor/oplus/camera",
+    "branch": "lineage-23.2"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "provasish/android_hardware_dolby-1",
+    "target_path": "hardware/dolby",
+    "branch": "lineage-23.2"
+  }
+]
