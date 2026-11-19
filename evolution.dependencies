@@ -30,10 +30,10 @@
     "branch": "lineage-24.0"
   },
   {
-    "remote": "gitlab",
-    "repository": "bijoyv9/proprietary_vendor_oplus_camera",
+    "remote": "github-non-los",
+    "repository": "https://github.com/EvoX-Spartan/vendor_oplus_camera",
     "target_path": "vendor/oplus/camera",
-    "branch": "lineage-23.2"
+    "branch": "16.0"
   },
   {
     "remote": "github-non-los",
