@@ -31,7 +31,7 @@
   },
   {
     "remote": "github-non-los",
-    "repository": "https://github.com/EvoX-Spartan/vendor_oplus_camera",
+    "repository": "EvoX-Spartan/vendor_oplus_camera",
     "target_path": "vendor/oplus/camera",
     "branch": "16.0"
   },
